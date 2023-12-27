@@ -14,7 +14,7 @@ This project focuses on building and evaluating a linear regression model for pr
 
 - **Dataset:** The dataset consists of information related to used cars, including details such as year of manufacture, selling price, kilometers driven, fuel type, seller type, transmission type, engine specifications, and maximum power.
 
-- **Source:** [Link to Kaggle - Vehicle Dataset]([(https://ice-cream-collector-final.vercel.app/)](https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho?select=Car+details+v3.csv)https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho?select=Car+details+v3.csv)
+- **Source:** [Link to Kaggle - Vehicle Dataset](https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho?select=Car+details+v3.csv)
 
 ## License
 
